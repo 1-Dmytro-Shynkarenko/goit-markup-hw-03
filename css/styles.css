@@ -8,7 +8,6 @@ font-size: 14px;
 
 .container{
 width: 1200px;
-margin: 0 auto;
 }
 
 :root {--white: #ffffff;}
@@ -23,10 +22,10 @@ ul { list-style: none; }
 display: flex;
 align-items: center;
 justify-content: space-between;
-width: 1600px;
 }
 
 .company-name{
+margin-left: 215px;
 }
 
 .nav-list{
@@ -34,10 +33,12 @@ display: flex;
 }
 
 .nav-list .nav-link {
+margin-left: 50px;
 display: block;
 }
 
 .contact-list{
+margin-right: 215px;
 display: flex;
 }
 
