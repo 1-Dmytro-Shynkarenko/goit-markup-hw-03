@@ -25,24 +25,15 @@ align-items: center;
 justify-content: space-between;
 }
 
-.company-name {
-padding: 24px 1240px 25px 215px;}
-
 .nav-list{
 display: flex;
-padding: 32px 866px 32px 453px;
-margin: 0;
 }
 
 .nav-list .nav-link {
-display: block;
-padding: 32px 866px 32px 453px;
-margin: 0;}
+display: block;}
 
 .contact-list{
 display: flex;
-padding: 32px 866px 32px 453px;
-margin: 0;
 }
 
 
