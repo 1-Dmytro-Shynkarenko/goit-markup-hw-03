@@ -24,40 +24,21 @@ display: flex;
 align-items: center;
 justify-content: space-between;
 width: 1600px;
-height: 80px;
 }
 
 .company-name{
-height: 31px;
-width: 145px;
-left: 215px;
-top: 24px;
-border-radius: nullpx;
 }
 
 .nav-list{
 display: flex;
-height: 16px;
-width: 281px;
-left: 453px;
-top: 32px;
-border-radius: nullpx;
 }
 
 .nav-list .nav-link {
 display: block;
-height: 16px;
-width: 281px;
-left: 453px;
-top: 32px;
 }
 
 .contact-list{
 display: flex;
-height: 16px;
-width: 135px;
-left: 1078px;
-top: 32px;
 }
 
 .web-colour-blue {
