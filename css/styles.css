@@ -5,12 +5,46 @@ background-color: var(--white);
 color: var(--Black21);
 font-size: 14px;
 }
+
+.container{
+width: 1200px;
+margin: 0 auto;
+}
+
 :root {--white: #ffffff;}
 :root{--Black21: #212121;}
 :root{--blue: #2196F3;}
 :root{--grey75: #757575;}
 
 ul { list-style: none; }
+
+
+.page-header {
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.company-name {
+padding: 24px 1240px 25px 215px;}
+
+.nav-list{
+display: flex;
+padding: 32px 866px 32px 453px;
+margin: 0;
+}
+
+.nav-list .nav-link {
+display: block;
+padding: 32px 866px 32px 453px;
+margin: 0;}
+
+.contact-list{
+display: flex;
+padding: 32px 866px 32px 453px;
+margin: 0;
+}
+
 
 
 
