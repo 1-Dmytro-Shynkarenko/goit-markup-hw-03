@@ -161,9 +161,7 @@ margin: 10px 32px 10px 32px;
 .banner-button :focus{
 visibility: hidden;
 }
-.banner-button :hover{
-visibility: hidden;
-}
+
 .banner-button :active{
 visibility: hidden;
 }
