@@ -6,6 +6,8 @@ color: var(--Black21);
 font-size: 14px;
 }
 
+a {text-decoration: none;}
+
 .container{
 width: 1200px;
 margin: 0 auto;
@@ -163,9 +165,6 @@ letter-spacing: 0.06em;
 margin-left: auto;
 margin-right: auto;
 display: block;
-}
-
-.button-text{
 padding: 10px 32px 10px 32px;
 }
 
@@ -313,6 +312,16 @@ padding-top: 60px;
 padding-bottom: 60px;
 }
 
+.company-name-footer {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: calc(31/26);
+letter-spacing: 0.03em;
+padding: 0px;
+}
+
 .footer-contact-link{
 font-style: normal;
 line-height: calc(16/14);
@@ -348,6 +357,7 @@ letter-spacing: 0.03em;
 background: #F5F4FA;
 border-radius: 4px;
 cursor: pointer;
+padding: 0px 22px 0px 22px;
 }
 
 .button-list .portfolio-button :focus {
@@ -380,7 +390,8 @@ margin: 0 auto;
 
 .product-name{
 padding: 20px 24px 20px 24px;
-border-bottom: 1px solid #EEEEEE;
+border: 1px solid #EEEEEE;
+border-top: none;
 }
 
 .button-list {
@@ -397,10 +408,6 @@ gap: 30px;
 
 .button-list .portfolio-button + .portfolio-button{
 margin-left: 8px;
-}
-
-.portfolio-button-text{
-padding: 0px 22px 0px 22px;
 }
 
 a.header-current.current{
