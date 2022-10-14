@@ -359,7 +359,7 @@ letter-spacing: 0.03em;
 background: #F5F4FA;
 border-radius: 4px;
 cursor: pointer;
-padding: 0px 22px 0px 22px;
+padding: 6px 25px;
 }
 
 .button-list .portfolio-button :focus {
