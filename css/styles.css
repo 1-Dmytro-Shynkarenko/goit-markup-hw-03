@@ -6,7 +6,9 @@ color: var(--Black21);
 font-size: 14px;
 }
 
-a {text-decoration: none;}
+a {
+text-decoration: none;
+}
 
 .container{
 width: 1200px;
